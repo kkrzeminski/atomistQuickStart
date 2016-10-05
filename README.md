@@ -1,0 +1,2 @@
+# atomistQuickStart
+Atomist Quick Start
